@@ -16,7 +16,7 @@
 - 🔭 I'm currently working on **frontend projects using HTML, CSS, and JavaScript**
 - 🌱 Learning full stack development through NIIT's Software Engineering program
 - 🤝 I’m open to remote junior roles, internships, or collaborations
-- 📫 You can reach me via email or [LinkedIn](#) *(add your link later)*
+- 📫 You can reach me via [email](pythagorasm7@gmail.com) or [LinkedIn](#)
 
 ---
 
@@ -62,7 +62,7 @@ Here are some of the projects I'm building as part of my learning journey:
 
 - LinkedIn: 
 - Portfolio: *(Coming soon)*
-- Email: 
+- Email: [pythagorasm7@gmail.com](pythagorasm7@gmail.com)
 
 
 
