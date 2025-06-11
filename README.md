@@ -61,7 +61,7 @@ Here are some of the projects I'm building as part of my learning journey:
 ### 📬 Let's Connect
 
 - LinkedIn: 
-- Portfolio: *(Coming soon)*
+- Portfolio: [mSev7n's portfolio](https://msev7n.github.io/Portfolio-project/)
 - Email: [pythagorasm7@gmail.com](mailto:pythagorasm7@gmail.com)
 
 
