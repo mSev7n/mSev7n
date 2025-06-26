@@ -46,6 +46,7 @@ Here are some of the projects I'm building as part of my learning journey:
 | 🍲 **[Odin Recipes](https://github.com/mSev7n/odin-recipes)** | Basic HTML site for recipes | [Live Site](https://msev7n.github.io/odin-recipes/) |
 | ✊📄✂️ **[Rock Paper Scissors](https://github.com/mSev7n/rps)** | JS game vs computer | [Live Site](https://msev7n.github.io/RPS/) |
 | 💻 **[Landing Page](https://github.com/mSev7n/odin-landing-page)** | Simple HTML/CSS layout | [Live Site](https://msev7n.github.io/odin-landing-page/) |
+| 💻 **[Theme toggler](https://github.com/mSev7n/theme_switcher)** | Simple page to toggle between light and dark themes with smooth transitions. | [Live Site](https://msev7n.github.io/theme_switcher/) |
 
 ---
 
